@@ -1,0 +1,3 @@
+,antecedants,consequents,support,confidence,lift
+0,frozenset(['GI_13376477-S']),frozenset(['GI_11056009-S']),0.0957446808511,0.944444444444,9.86419753086
+1,frozenset(['GI_11056009-S']),frozenset(['GI_13376477-S']),0.0957446808511,0.944444444444,9.86419753086
